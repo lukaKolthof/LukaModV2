@@ -1,0 +1,42 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass_pane"
+    },
+    "1": {
+      "item": "minecraft:glass_pane"
+    },
+    "2": {
+      "item": "minecraft:glass_pane"
+    },
+    "3": {
+      "item": "minecraft:redstone"
+    },
+    "4": {
+      "item": "lukamod_v2:ruby"
+    },
+    "5": {
+      "item": "minecraft:redstone"
+    },
+    "6": {
+      "item": "lukamod_v2:silver"
+    },
+    "7": {
+      "item": "lukamod_v2:silver"
+    },
+    "8": {
+      "item": "lukamod_v2:silver"
+    }
+  },
+  "result": {
+    "item": "lukamod_v2:solar_cell",
+    "count": 1
+  }
+}

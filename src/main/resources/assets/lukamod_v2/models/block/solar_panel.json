@@ -1,0 +1,10 @@
+{
+  "parent": "lukamod_v2:custom/model",
+  "textures": {
+    "all": "lukamod_v2:blocks/tex6",
+    "particle": "lukamod_v2:blocks/tex6",
+    "3": "lukamod_v2:blocks/tex3",
+    "4": "lukamod_v2:blocks/tex5",
+    "5": "lukamod_v2:blocks/tex6"
+  }
+}

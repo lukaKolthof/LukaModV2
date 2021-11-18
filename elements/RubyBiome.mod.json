@@ -1,0 +1,105 @@
+{
+  "_fv": 24,
+  "_type": "biome",
+  "definition": {
+    "name": "Ruby Biome",
+    "groundBlock": {
+      "value": "CUSTOM:RubyBlock"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:RubyBlock"
+    },
+    "airColor": {
+      "value": -13108,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -39322,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "WHITE_ASH"
+    },
+    "particlesProbability": 1.0,
+    "biomeCategory": "PLAINS",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "biomeType": "WARM",
+    "spawnBiome": false,
+    "biomeWeight": 1024,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 7,
+    "maxWaterDepth": 0,
+    "treeStem": {
+      "value": "CUSTOM:RubyWoodLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:RubyWoodLog"
+    },
+    "treeVines": {
+      "value": "CUSTOM:RubyWoodLeaves"
+    },
+    "treeFruits": {
+      "value": "Blocks.WEEPING_VINES_PLANT"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "JungleTreeForest"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityWitherSkull"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

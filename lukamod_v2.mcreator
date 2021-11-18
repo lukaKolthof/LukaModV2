@@ -1,0 +1,3943 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "LukaModv2",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "luka_modv_2"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby",
+      "path": "~/Ruby/Items"
+    },
+    {
+      "name": "RubyPickaxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe",
+      "path": "~/Ruby/Tools"
+    },
+    {
+      "name": "RubyPickaxeRec",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe_rec",
+      "path": "~/Ruby/Recipe"
+    },
+    {
+      "name": "RubyAxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe",
+      "path": "~/Ruby/Tools"
+    },
+    {
+      "name": "RubyAxeRec",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe_rec",
+      "path": "~/Ruby/Recipe"
+    },
+    {
+      "name": "RubySword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword",
+      "path": "~/Ruby/Tools"
+    },
+    {
+      "name": "RubySwordRec",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword_rec",
+      "path": "~/Ruby/Recipe"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block",
+      "path": "~/Ruby/Blocks"
+    },
+    {
+      "name": "RubyBlockrec",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_blockrec",
+      "path": "~/Ruby/Recipe"
+    },
+    {
+      "name": "RubyShard",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shard",
+      "path": "~/Ruby/Recipe"
+    },
+    {
+      "name": "RubyRec",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_rec",
+      "path": "~/Ruby/Recipe"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore",
+      "path": "~/Ruby/Blocks"
+    },
+    {
+      "name": "RubyDimension",
+      "type": "dimension",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_dimension",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/Ruby"
+    },
+    {
+      "name": "DimensionKey",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimension_key",
+      "path": "~/Ruby/Recipe"
+    },
+    {
+      "name": "RubyShovel",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel",
+      "path": "~/Ruby/Tools"
+    },
+    {
+      "name": "RubyShovelRec",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel_rec",
+      "path": "~/Ruby/Recipe"
+    },
+    {
+      "name": "RubyHoe",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe",
+      "path": "~/Ruby/Tools"
+    },
+    {
+      "name": "RubyBiome",
+      "type": "biome",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_biome",
+      "path": "~/Ruby"
+    },
+    {
+      "name": "RubyWater",
+      "type": "fluid",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_water",
+      "metadata": {
+        "gb": true
+      },
+      "path": "~/Ruby"
+    },
+    {
+      "name": "RubyArmorArmor",
+      "type": "armor",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Ruby/Armor"
+    },
+    {
+      "name": "RubyArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_armor_helmet_recipe",
+      "path": "~/Ruby/Armor"
+    },
+    {
+      "name": "RubyArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_armor_body_recipe",
+      "path": "~/Ruby/Armor"
+    },
+    {
+      "name": "RubyArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_armor_leggings_recipe",
+      "path": "~/Ruby/Armor"
+    },
+    {
+      "name": "RubyArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_armor_boots_recipe",
+      "path": "~/Ruby/Armor"
+    },
+    {
+      "name": "RubyAppelFoodEaten",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_appel_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Ruby"
+    },
+    {
+      "name": "RubyAppel",
+      "type": "food",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_appel",
+      "path": "~/Ruby"
+    },
+    {
+      "name": "EmeraldArmorArmor",
+      "type": "armor",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Emerald/Armor"
+    },
+    {
+      "name": "EmeraldArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_armor_helmet_recipe",
+      "path": "~/Emerald/Armor"
+    },
+    {
+      "name": "EmeraldArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_armor_body_recipe",
+      "path": "~/Emerald/Armor"
+    },
+    {
+      "name": "EmeraldArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_armor_leggings_recipe",
+      "path": "~/Emerald/Armor"
+    },
+    {
+      "name": "EmeraldArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_armor_boots_recipe",
+      "path": "~/Emerald/Armor"
+    },
+    {
+      "name": "EmeraldToolsPickaxe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_pickaxe",
+      "path": "~/Emerald/Tools"
+    },
+    {
+      "name": "EmeraldToolsAxe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_axe",
+      "path": "~/Emerald/Tools"
+    },
+    {
+      "name": "EmeraldToolsSword",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_sword",
+      "path": "~/Emerald/Tools"
+    },
+    {
+      "name": "EmeraldToolsShovel",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_shovel",
+      "path": "~/Emerald/Tools"
+    },
+    {
+      "name": "EmeraldToolsHoe",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_hoe",
+      "path": "~/Emerald/Tools"
+    },
+    {
+      "name": "EmeraldToolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_pickaxe_recipe",
+      "path": "~/Emerald/Tools"
+    },
+    {
+      "name": "EmeraldToolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_axe_recipe",
+      "path": "~/Emerald/Tools"
+    },
+    {
+      "name": "EmeraldToolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_sword_recipe",
+      "path": "~/Emerald/Tools"
+    },
+    {
+      "name": "EmeraldToolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_shovel_recipe",
+      "path": "~/Emerald/Tools"
+    },
+    {
+      "name": "EmeraldToolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_hoe_recipe",
+      "path": "~/Emerald/Tools"
+    },
+    {
+      "name": "EmeraldDustDust",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_dust_dust",
+      "path": "~/Emerald/Items"
+    },
+    {
+      "name": "EmeraldDustOreSmelting",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_dust_ore_smelting",
+      "path": "~/Emerald/Items"
+    },
+    {
+      "name": "QuartzArmor",
+      "type": "armor",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Quartz/Armor"
+    },
+    {
+      "name": "QuartzArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_armor_helmet_recipe",
+      "path": "~/Quartz/Armor"
+    },
+    {
+      "name": "QuartzArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_armor_body_recipe",
+      "path": "~/Quartz/Armor"
+    },
+    {
+      "name": "QuartzArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_armor_leggings_recipe",
+      "path": "~/Quartz/Armor"
+    },
+    {
+      "name": "QuartzArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_armor_boots_recipe",
+      "path": "~/Quartz/Armor"
+    },
+    {
+      "name": "QuartzPickaxe",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_pickaxe",
+      "path": "~/Quartz/Tools"
+    },
+    {
+      "name": "QuartzAxe",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_axe",
+      "path": "~/Quartz/Tools"
+    },
+    {
+      "name": "QuartzSword",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_sword",
+      "path": "~/Quartz/Tools"
+    },
+    {
+      "name": "QuartzShovel",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_shovel",
+      "path": "~/Quartz/Tools"
+    },
+    {
+      "name": "QuartzHoe",
+      "type": "tool",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_hoe",
+      "path": "~/Quartz/Tools"
+    },
+    {
+      "name": "QuartzPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_pickaxe_recipe",
+      "path": "~/Quartz/Tools"
+    },
+    {
+      "name": "QuartzAxeRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_axe_recipe",
+      "path": "~/Quartz/Tools"
+    },
+    {
+      "name": "QuartzSwordRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_sword_recipe",
+      "path": "~/Quartz/Tools"
+    },
+    {
+      "name": "QuartzShovelRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_shovel_recipe",
+      "path": "~/Quartz/Tools"
+    },
+    {
+      "name": "QuartzHoeRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_hoe_recipe",
+      "path": "~/Quartz/Tools"
+    },
+    {
+      "name": "UltraRubyBlock",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultra_ruby_block",
+      "path": "~/Ruby/Blocks"
+    },
+    {
+      "name": "Silver",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverOre",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverBlock",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_block",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore_block_recipe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_block_ore_recipe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverOreSmelting",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore_smelting",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverPickaxe",
+      "type": "tool",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_pickaxe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverAxe",
+      "type": "tool",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_axe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverSword",
+      "type": "tool",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_sword",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverShovel",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_shovel",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverHoe",
+      "type": "tool",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_hoe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_pickaxe_recipe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverAxeRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_axe_recipe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverSwordRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_sword_recipe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverShovelRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_shovel_recipe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverHoeRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_hoe_recipe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverArmor",
+      "type": "armor",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor_helmet_recipe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor_body_recipe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor_leggings_recipe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "SilverArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_armor_boots_recipe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "RubyWoodWood",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_wood",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodLog",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_log",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodPlanks",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_planks",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodLeaves",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_leaves",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodStairs",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_stairs",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodSlab",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_slab",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodFence",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_fence",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodFenceGate",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_fence_gate",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodItemsTag",
+      "type": "tag",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_items_tag",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_wood_recipe",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_planks_recipe",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_stairs_recipe",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_slab_recipe",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_fence_recipe",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_fence_gate_recipe",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_stick_recipe",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyPlant",
+      "type": "plant",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_plant",
+      "path": "~/Ruby/Blocks"
+    },
+    {
+      "name": "ToughPickaxe",
+      "type": "tool",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tough_pickaxe",
+      "path": "~/Tough/Iron"
+    },
+    {
+      "name": "ToughAxe",
+      "type": "tool",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tough_axe",
+      "path": "~/Tough/Iron"
+    },
+    {
+      "name": "ToughSword",
+      "type": "tool",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tough_sword",
+      "path": "~/Tough/Iron"
+    },
+    {
+      "name": "ToughShovel",
+      "type": "tool",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tough_shovel",
+      "path": "~/Tough/Iron"
+    },
+    {
+      "name": "ToughHoe",
+      "type": "tool",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tough_hoe",
+      "path": "~/Tough/Iron"
+    },
+    {
+      "name": "ToughPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tough_pickaxe_recipe",
+      "path": "~/Tough/Iron"
+    },
+    {
+      "name": "ToughAxeRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tough_axe_recipe",
+      "path": "~/Tough/Iron"
+    },
+    {
+      "name": "ToughSwordRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tough_sword_recipe",
+      "path": "~/Tough/Iron"
+    },
+    {
+      "name": "ToughShovelRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tough_shovel_recipe",
+      "path": "~/Tough/Iron"
+    },
+    {
+      "name": "ToughHoeRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tough_hoe_recipe",
+      "path": "~/Tough/Iron"
+    },
+    {
+      "name": "IronStick",
+      "type": "item",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_stick",
+      "path": "~/Tough"
+    },
+    {
+      "name": "IronStickRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_stick_recipe",
+      "path": "~/Tough"
+    },
+    {
+      "name": "LightItemIsCraftedsmelted",
+      "type": "procedure",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_item_is_craftedsmelted",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Light",
+      "type": "item",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light",
+      "path": "~/LightItems"
+    },
+    {
+      "name": "BowOfLightBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bow_of_light_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/LightItems"
+    },
+    {
+      "name": "BowOfLight",
+      "type": "rangeditem",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bow_of_light",
+      "path": "~/LightItems"
+    },
+    {
+      "name": "StringOfLight",
+      "type": "item",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_of_light",
+      "path": "~/LightItems"
+    },
+    {
+      "name": "ObsidianBoss",
+      "type": "livingentity",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_boss",
+      "path": "~/Mobs"
+    },
+    {
+      "name": "StringOfLightRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_of_light_recipe",
+      "path": "~/LightItems"
+    },
+    {
+      "name": "BowOfLightRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bow_of_light_recipe",
+      "path": "~/LightItems"
+    },
+    {
+      "name": "Planks",
+      "type": "tag",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "planks",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "RubyWoodCraftingTableRecipe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_wood_crafting_table_recipe",
+      "path": "~/Ruby/Wood"
+    },
+    {
+      "name": "OBSpawn",
+      "type": "procedure",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ob_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Mobs"
+    },
+    {
+      "name": "RubyBlockRecipe2",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block_recipe_2",
+      "path": "~/Ruby/Recipe"
+    },
+    {
+      "name": "UltraRubyBlockRec",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultra_ruby_block_rec",
+      "path": "~/Ruby/Recipe"
+    },
+    {
+      "name": "Table",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "table",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "Television",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "television",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "SolarPanelUpdateTick",
+      "type": "procedure",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_panel_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SolarPanel",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_panel",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "FanUpdateTick",
+      "type": "procedure",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fan_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fan",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fan",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "EnergyMeterRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energy_meter_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "direction",
+            "type": "direction"
+          },
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EnergyMeter",
+      "type": "item",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energy_meter",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "BatteryUpdateTick",
+      "type": "procedure",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battery_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Battery",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battery",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "MachineChassis",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "machine_chassis",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "SolarCell",
+      "type": "item",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_cell",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "SolarCellRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_cell_recipe",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "SolarPanelRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_panel_recipe",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "ChassisRecipe",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chassis_recipe",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "BatteryRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battery_recipe",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "BatteryRecipe2",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battery_recipe_2",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "FanRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fan_recipe",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "FanRecipe2",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fan_recipe_2",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "UltraRubyBlockRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultra_ruby_block_recipe",
+      "path": "~/Ruby/Blocks"
+    },
+    {
+      "name": "RubyAppelRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_appel_recipe",
+      "path": "~/Ruby/Recipe"
+    },
+    {
+      "name": "EnergyMeterRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energy_meter_recipe",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "EnergyMeterRecipe2",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energy_meter_recipe_2",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "TableRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_recipe",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "TelevisionRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "television_recipe",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "SteelIngot",
+      "type": "item",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_ingot",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelOre",
+      "type": "block",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_ore",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelBlock",
+      "type": "block",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_block",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_ore_block_recipe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_block_ore_recipe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelOreSmelting",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_ore_smelting",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelPickaxe",
+      "type": "tool",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_pickaxe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelAxe",
+      "type": "tool",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_axe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelSword",
+      "type": "tool",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_sword",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelShovel",
+      "type": "tool",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_shovel",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelHoe",
+      "type": "tool",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_hoe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_pickaxe_recipe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelAxeRecipe",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_axe_recipe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelSwordRecipe",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_sword_recipe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelShovelRecipe",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_shovel_recipe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelHoeRecipe",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_hoe_recipe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelArmor",
+      "type": "armor",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor_helmet_recipe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor_body_recipe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor_leggings_recipe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor_boots_recipe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SilverRecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_recipe",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "IngotsSteel",
+      "type": "tag",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingots_steel",
+      "path": "~/Steel"
+    },
+    {
+      "name": "IngotsSteel2",
+      "type": "tag",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingots_steel_2",
+      "path": "~/Steel"
+    },
+    {
+      "name": "IngotsSilver",
+      "type": "tag",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingots_silver",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "IngotsSilver2",
+      "type": "tag",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingots_silver_2",
+      "path": "~/Alcoline"
+    },
+    {
+      "name": "AshWood",
+      "type": "block",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_wood",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshLog",
+      "type": "block",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_log",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshPlanks",
+      "type": "block",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_planks",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshLeaves",
+      "type": "block",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_leaves",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshStairs",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_stairs",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshSlab",
+      "type": "block",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_slab",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshFence",
+      "type": "block",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_fence",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshFenceGate",
+      "type": "block",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_fence_gate",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshItemsTag",
+      "type": "tag",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_items_tag",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshWoodRecipe",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_wood_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshPlanksRecipe",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_planks_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshStairsRecipe",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_stairs_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshSlabRecipe",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_slab_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshFenceRecipe",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_fence_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_fence_gate_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshStickRecipe",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_stick_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshItemInInventoryTick",
+      "type": "procedure",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_item_in_inventory_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ash",
+      "type": "item",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshArmor",
+      "type": "armor",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_armor_helmet_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_armor_body_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_armor_leggings_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_armor_boots_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshPickaxe",
+      "type": "tool",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_pickaxe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshAxe",
+      "type": "tool",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_axe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshSword",
+      "type": "tool",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_sword",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshShovel",
+      "type": "tool",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_shovel",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshHoe",
+      "type": "tool",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_hoe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_pickaxe_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshAxeRecipe",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_axe_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshSwordRecipe",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_sword_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshShovelRecipe",
+      "type": "recipe",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_shovel_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "QAshHoeRecipe",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "q_ash_hoe_recipe",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshDirt",
+      "type": "block",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_dirt",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshDirt2",
+      "type": "block",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_dirt_2",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshBiome",
+      "type": "biome",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_biome",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshDirtTag",
+      "type": "tag",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_dirt_tag",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshDirtTag2",
+      "type": "tag",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_dirt_tag_2",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "AshLeavesBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_leaves_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cooker",
+      "type": "block",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooker",
+      "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "CookerBlockIsPlacedBy",
+      "type": "procedure",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooker_block_is_placed_by",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AshLogs",
+      "type": "tag",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ash_logs",
+      "path": "~/GeneralBiomes/Ash"
+    },
+    {
+      "name": "TinIngot",
+      "type": "item",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ingot",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinOre",
+      "type": "block",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinBlock",
+      "type": "block",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_block",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore_block_recipe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_block_ore_recipe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinOreSmelting",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore_smelting",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinPickaxe",
+      "type": "tool",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_pickaxe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinAxe",
+      "type": "tool",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_axe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinSword",
+      "type": "tool",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_sword",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinShovel",
+      "type": "tool",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_shovel",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinHoe",
+      "type": "tool",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_hoe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_pickaxe_recipe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinAxeRecipe",
+      "type": "recipe",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_axe_recipe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinSwordRecipe",
+      "type": "recipe",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_sword_recipe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinShovelRecipe",
+      "type": "recipe",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_shovel_recipe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinHoeRecipe",
+      "type": "recipe",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_hoe_recipe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinArmor",
+      "type": "armor",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/tin"
+    },
+    {
+      "name": "TinArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_armor_helmet_recipe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_armor_body_recipe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_armor_leggings_recipe",
+      "path": "~/tin"
+    },
+    {
+      "name": "TinArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_armor_boots_recipe",
+      "path": "~/tin"
+    },
+    {
+      "name": "Tintag",
+      "type": "tag",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tintag",
+      "path": "~/tin"
+    },
+    {
+      "name": "RubyTag",
+      "type": "tag",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tag",
+      "path": "~/Ruby"
+    },
+    {
+      "name": "Rubytag2",
+      "type": "tag",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubytag_2",
+      "path": "~/Ruby"
+    },
+    {
+      "name": "CopperIngot",
+      "type": "item",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ingot",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperOre",
+      "type": "block",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperBlock",
+      "type": "block",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_block",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_block_recipe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_block_ore_recipe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperOreSmelting",
+      "type": "recipe",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_smelting",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperPickaxe",
+      "type": "tool",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_pickaxe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperAxe",
+      "type": "tool",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperSword",
+      "type": "tool",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperHoe",
+      "type": "tool",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_hoe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_pickaxe_recipe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperAxeRecipe",
+      "type": "recipe",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe_recipe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperSwordRecipe",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword_recipe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperShovelRecipe",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel_recipe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperHoeRecipe",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_hoe_recipe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperArmor",
+      "type": "armor",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_helmet_recipe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_body_recipe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_leggings_recipe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "CopperArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_boots_recipe",
+      "path": "~/Copper"
+    },
+    {
+      "name": "Copper",
+      "type": "tag",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper",
+      "path": "~/Copper"
+    },
+    {
+      "name": "AluminiumIngot",
+      "type": "item",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_ingot",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumOre",
+      "type": "block",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_ore",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumBlock",
+      "type": "block",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_block",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_ore_block_recipe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_block_ore_recipe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumOreSmelting",
+      "type": "recipe",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_ore_smelting",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumPickaxe",
+      "type": "tool",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_pickaxe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumAxe",
+      "type": "tool",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_axe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumSword",
+      "type": "tool",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_sword",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumShovel",
+      "type": "tool",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_shovel",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumHoe",
+      "type": "tool",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_hoe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_pickaxe_recipe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_axe_recipe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_sword_recipe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_shovel_recipe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_hoe_recipe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumArmor",
+      "type": "armor",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_armor_helmet_recipe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_armor_body_recipe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_armor_leggings_recipe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "AluminiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminium_armor_boots_recipe",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "Ingotsaluminum",
+      "type": "tag",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingotsaluminum",
+      "path": "~/aluminium"
+    },
+    {
+      "name": "BrassIngot",
+      "type": "item",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_ingot",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassOre",
+      "type": "block",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_ore",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassBlock",
+      "type": "block",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_block",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_ore_block_recipe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_block_ore_recipe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassOreSmelting",
+      "type": "recipe",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_ore_smelting",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassPickaxe",
+      "type": "tool",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_pickaxe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassAxe",
+      "type": "tool",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_axe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassSword",
+      "type": "tool",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_sword",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassShovel",
+      "type": "tool",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_shovel",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassHoe",
+      "type": "tool",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_hoe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_pickaxe_recipe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassAxeRecipe",
+      "type": "recipe",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_axe_recipe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassSwordRecipe",
+      "type": "recipe",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_sword_recipe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassShovelRecipe",
+      "type": "recipe",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_shovel_recipe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassHoeRecipe",
+      "type": "recipe",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_hoe_recipe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassArmor",
+      "type": "armor",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_armor_helmet_recipe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_armor_body_recipe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_armor_leggings_recipe",
+      "path": "~/brass"
+    },
+    {
+      "name": "BrassArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brass_armor_boots_recipe",
+      "path": "~/brass"
+    },
+    {
+      "name": "Brassingotr",
+      "type": "tag",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brassingotr",
+      "path": "~/brass"
+    },
+    {
+      "name": "AluminumIngot",
+      "type": "item",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_ingot",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumOre",
+      "type": "block",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_ore",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumBlock",
+      "type": "block",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_block",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_ore_block_recipe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_block_ore_recipe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumOreSmelting",
+      "type": "recipe",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_ore_smelting",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumPickaxe",
+      "type": "tool",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_pickaxe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumAxe",
+      "type": "tool",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_axe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumSword",
+      "type": "tool",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_sword",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumShovel",
+      "type": "tool",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_shovel",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumHoe",
+      "type": "tool",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_hoe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_pickaxe_recipe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumAxeRecipe",
+      "type": "recipe",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_axe_recipe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumSwordRecipe",
+      "type": "recipe",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_sword_recipe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumShovelRecipe",
+      "type": "recipe",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_shovel_recipe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumHoeRecipe",
+      "type": "recipe",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_hoe_recipe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumArmor",
+      "type": "armor",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_armor_helmet_recipe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_armor_body_recipe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_armor_leggings_recipe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "AluminumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_armor_boots_recipe",
+      "path": "~/aluminum"
+    },
+    {
+      "name": "Aluminum",
+      "type": "tag",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum",
+      "path": "~/aluminum"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "idl1",
+      "files": [
+        "src_main_resources_assets_goblintraders_sounds_entity_goblin_trader_idle_grunt1"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "idle2",
+      "files": [
+        "src_main_resources_assets_goblintraders_sounds_entity_goblin_trader_idle_grunt2"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "idle3",
+      "files": [
+        "src_main_resources_assets_goblintraders_sounds_entity_goblin_trader_idle_grunt3"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "annoyed",
+      "files": [
+        "src_main_resources_assets_goblintraders_sounds_entity_goblin_trader_annoyed_grunt2"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.lukamod_v2.silver_armor_boots": "Silver Boots",
+      "item.lukamod_v2.ruby_sword": "Ruby Sword",
+      "item.lukamod_v2.aluminum_pickaxe": "Aluminum Pickaxe",
+      "item.lukamod_v2.steel_armor_helmet": "Steel Helmet",
+      "block.lukamod_v2.ruby_wood_leaves": "Ruby Leaves",
+      "item.lukamod_v2.aluminum_armor_leggings": "Aluminum Leggings",
+      "item.lukamod_v2.copper_armor_chestplate": "Copper Chestplate",
+      "item.lukamod_v2.light": "Light",
+      "item.lukamod_v2.aluminium_sword": "Aluminium Sword",
+      "block.lukamod_v2.ash_fence_gate": "Ash Fence Gate",
+      "fluid.ruby_water": "RubyWater",
+      "item.lukamod_v2.energy_meter": "Energy Meter",
+      "item.lukamod_v2.quartz_armor_chestplate": "Quartz Chestplate",
+      "item.lukamod_v2.steel_axe": "Steel Axe",
+      "item.lukamod_v2.q_ash_pickaxe": "Ash Pickaxe",
+      "item.lukamod_v2.steel_shovel": "Steel Shovel",
+      "block.lukamod_v2.ash_leaves": "Ash Leaves",
+      "block.lukamod_v2.cooker": "Cooker",
+      "item.lukamod_v2.emerald_armor_armor_leggings": "Emerald Leggings",
+      "item.lukamod_v2.q_ash_armor_helmet": "Ash Helmet",
+      "item.lukamod_v2.silver_armor_leggings": "Silver Leggings",
+      "block.lukamod_v2.ash_stairs": "Ash Stairs",
+      "item.lukamod_v2.copper_armor_boots": "Copper Boots",
+      "item.lukamod_v2.steel_armor_chestplate": "Steel Chestplate",
+      "block.lukamod_v2.ultra_ruby_block": "Ultra Ruby Block",
+      "item.lukamod_v2.tin_pickaxe": "Tin Pickaxe",
+      "item.lukamod_v2.emerald_tools_sword": "Emerald Sword",
+      "block.lukamod_v2.aluminum_ore": "Aluminum Ore",
+      "item.lukamod_v2.copper_armor_leggings": "Copper Leggings",
+      "item.lukamod_v2.copper_pickaxe": "Copper Pickaxe",
+      "item.lukamod_v2.tin_armor_helmet": "Tin Helmet",
+      "block.lukamod_v2.ruby_wood_stairs": "Ruby Stairs",
+      "item.lukamod_v2.silver_armor_chestplate": "Silver Chestplate",
+      "block.lukamod_v2.solar_panel": "Solar Panel",
+      "item.lukamod_v2.silver": "Silver",
+      "item.lukamod_v2.silver_axe": "Silver Axe",
+      "block.lukamod_v2.steel_block": "Block of Steel",
+      "item.lukamod_v2.ruby_shard": "Ruby Shard",
+      "item.lukamod_v2.steel_pickaxe": "Steel Pickaxe",
+      "item.lukamod_v2.aluminium_armor_helmet": "Aluminium Helmet",
+      "item.lukamod_v2.quartz_sword": "Quartz Sword",
+      "subtitles.idl1": "",
+      "block.lukamod_v2.ruby_wood_wood": "Ruby Wood",
+      "item.lukamod_v2.ruby_shovel": "Ruby Shovel",
+      "item.lukamod_v2.brass_shovel": "Brass Shovel",
+      "block.lukamod_v2.silver_ore": "Silver Ore",
+      "block.lukamod_v2.silver_block": "Block of Silver",
+      "block.lukamod_v2.aluminium_block": "Block of Aluminium",
+      "item.lukamod_v2.brass_hoe": "Brass Hoe",
+      "subtitles.annoyed": "",
+      "item.lukamod_v2.tin_ingot": "Tin",
+      "item.lukamod_v2.emerald_dust_dust": "Emerald Dust",
+      "item.lukamod_v2.aluminium_armor_leggings": "Aluminium Leggings",
+      "item.lukamod_v2.aluminium_armor_chestplate": "Aluminium Chestplate",
+      "item.lukamod_v2.ruby_armor_armor_boots": "RubyArmor Boots",
+      "item.lukamod_v2.aluminum_armor_boots": "Aluminum Boots",
+      "block.lukamod_v2.ash_dirt": "Ash Dirt",
+      "item.lukamod_v2.string_of_light": "String Of Light",
+      "item.lukamod_v2.copper_hoe": "Copper Hoe",
+      "item.lukamod_v2.quartz_armor_leggings": "Quartz Leggings",
+      "block.lukamod_v2.machine_chassis": "Machine Chassis",
+      "item.lukamod_v2.aluminum_axe": "Aluminum Axe",
+      "item.lukamod_v2.quartz_armor_boots": "Quartz Boots",
+      "block.lukamod_v2.brass_block": "Block of Brass",
+      "item.lukamod_v2.quartz_armor_helmet": "Quartz Helmet",
+      "item.lukamod_v2.aluminium_shovel": "Aluminium Shovel",
+      "item.lukamod_v2.aluminum_armor_helmet": "Aluminum Helmet",
+      "item.lukamod_v2.steel_sword": "Steel Sword",
+      "item.lukamod_v2.silver_hoe": "Silver Hoe",
+      "entity.lukamod_v2.obsidian_boss": "Obsidian Boss",
+      "item.lukamod_v2.copper_axe": "Copper Axe",
+      "block.lukamod_v2.steel_ore": "Steel Ore",
+      "item.lukamod_v2.tin_axe": "Tin Axe",
+      "item.lukamod_v2.bow_of_light": "Bow Of Light",
+      "item.lukamod_v2.iron_stick": "Iron Stick",
+      "item.lukamod_v2.q_ash_sword": "Ash Sword",
+      "item.lukamod_v2.tin_armor_boots": "Tin Boots",
+      "item.lukamod_v2.brass_axe": "Brass Axe",
+      "item.lukamod_v2.silver_armor_helmet": "Silver Helmet",
+      "block.lukamod_v2.copper_ore": "Copper Ore",
+      "block.lukamod_v2.ash_wood": "Ash Wood",
+      "fluid.lukamod_v2.ruby_water": "Ruby Water",
+      "biome.lukamod_v2.ruby_biome": "Ruby Biome",
+      "item.lukamod_v2.aluminum_shovel": "Aluminum Shovel",
+      "item.lukamod_v2.q_ash_armor_boots": "Ash Boots",
+      "block.lukamod_v2.tin_block": "Block of Tin",
+      "item.lukamod_v2.silver_pickaxe": "Silver Pickaxe",
+      "item.lukamod_v2.aluminium_axe": "Aluminium Axe",
+      "block.lukamod_v2.copper_block": "Block of Copper",
+      "block.lukamod_v2.ruby_wood_planks": "Ruby Planks",
+      "block.lukamod_v2.ruby_wood_log": "Ruby Log",
+      "block.lukamod_v2.ash_log": "Ash Log",
+      "item.lukamod_v2.steel_ingot": "Steel",
+      "item.lukamod_v2.aluminum_armor_chestplate": "Aluminum Chestplate",
+      "item.lukamod_v2.tough_axe": "Tough Axe",
+      "item.lukamod_v2.ruby_appel": "Ruby Appel",
+      "item.lukamod_v2.emerald_tools_axe": "Emerald Axe",
+      "item.lukamod_v2.aluminium_hoe": "Aluminium Hoe",
+      "block.lukamod_v2.ash_planks": "Ash Planks",
+      "item.lukamod_v2.q_ash_hoe": "Ash Hoe",
+      "block.lukamod_v2.ruby_ore": "Ruby Ore",
+      "item.lukamod_v2.brass_armor_chestplate": "Brass Chestplate",
+      "item.lukamod_v2.aluminum_ingot": "Aluminum",
+      "item.lukamod_v2.copper_shovel": "Copper Shovel",
+      "item.lukamod_v2.brass_armor_helmet": "Brass Helmet",
+      "item.lukamod_v2.ruby": "Ruby",
+      "item.lukamod_v2.ash": "Ash",
+      "item.lukamod_v2.ruby_water_bucket": "Ruby Water Bucket",
+      "item.lukamod_v2.solar_cell": "Solar Cell",
+      "block.lukamod_v2.tin_ore": "Tin Ore",
+      "item.lukamod_v2.brass_ingot": "Brass",
+      "item.lukamod_v2.aluminum_sword": "Aluminum Sword",
+      "item.lukamod_v2.quartz_hoe": "Quartz Hoe",
+      "item.lukamod_v2.tin_hoe": "Tin Hoe",
+      "block.lukamod_v2.brass_ore": "Brass Ore",
+      "item.lukamod_v2.emerald_armor_armor_chestplate": "Emerald Chestplate",
+      "block.lukamod_v2.ash_fence": "Ash Fence",
+      "item.lukamod_v2.q_ash_shovel": "Ash Shovel",
+      "item.lukamod_v2.obsidian_boss_spawn_egg": "Obsidian Boss Spawn Egg",
+      "item.lukamod_v2.aluminum_hoe": "Aluminum Hoe",
+      "item.lukamod_v2.steel_armor_boots": "Steel Boots",
+      "item.lukamod_v2.tin_armor_leggings": "Tin Leggings",
+      "block.lukamod_v2.ruby_wood_fence": "Ruby Fence",
+      "item.lukamod_v2.quartz_pickaxe": "Quartz Pickaxe",
+      "item.lukamod_v2.tough_sword": "Tough Sword",
+      "item.lukamod_v2.ruby_armor_armor_chestplate": "RubyArmor Chestplate",
+      "item.lukamod_v2.tin_sword": "Tin Sword",
+      "item.lukamod_v2.quartz_axe": "Quartz Axe",
+      "item.lukamod_v2.silver_sword": "Silver Sword",
+      "block.lukamod_v2.aluminium_ore": "Aluminium Ore",
+      "item.lukamod_v2.emerald_tools_shovel": "Emerald Shovel",
+      "item.lukamod_v2.steel_armor_leggings": "Steel Leggings",
+      "item.lukamod_v2.copper_ingot": "Copper",
+      "item.lukamod_v2.tough_hoe": "Tough Hoe",
+      "item.lukamod_v2.tough_shovel": "Tough Shovel",
+      "block.lukamod_v2.ruby_wood_fence_gate": "Ruby Fence Gate",
+      "item.lukamod_v2.ruby_armor_armor_leggings": "RubyArmor Leggings",
+      "item.lukamod_v2.aluminium_armor_boots": "Aluminium Boots",
+      "item.lukamod_v2.q_ash_armor_chestplate": "Ash Chestplate",
+      "item.lukamod_v2.q_ash_armor_leggings": "Ash Leggings",
+      "item.lukamod_v2.brass_sword": "Brass Sword",
+      "item.lukamod_v2.ruby_hoe": "Ruby Hoe",
+      "block.lukamod_v2.ruby_block": "Ruby Block",
+      "subtitles.idle2": "",
+      "item.lukamod_v2.tin_armor_chestplate": "Tin Chestplate",
+      "item.lukamod_v2.copper_armor_helmet": "Copper Helmet",
+      "item.lukamod_v2.emerald_tools_pickaxe": "Emerald Pickaxe",
+      "subtitles.idle3": "",
+      "block.lukamod_v2.fan": "Fan",
+      "item.lukamod_v2.silver_shovel": "Silver Shovel",
+      "item.lukamod_v2.aluminium_pickaxe": "Aluminium Pickaxe",
+      "item.lukamod_v2.ruby_pickaxe": "Ruby Pickaxe",
+      "block.lukamod_v2.ruby_wood_slab": "Ruby Slab",
+      "block.lukamod_v2.ruby_water": "Ruby Water",
+      "item.lukamod_v2.brass_pickaxe": "Brass Pickaxe",
+      "block.lukamod_v2.ruby_plant": "Ruby Plant",
+      "item.lukamod_v2.tin_shovel": "Tin Shovel",
+      "item.lukamod_v2.emerald_tools_hoe": "Emerald Hoe",
+      "block.lukamod_v2.television": "Television",
+      "block.lukamod_v2.ash_dirt_2": "Ash Dirt 2",
+      "item.lukamod_v2.steel_hoe": "Steel Hoe",
+      "item.lukamod_v2.q_ash_axe": "Ash Axe",
+      "item.lukamod_v2.ruby_dimension": "RD Key",
+      "block.lukamod_v2.ash_slab": "Ash Slab",
+      "item.lukamod_v2.copper_sword": "Copper Sword",
+      "item.lukamod_v2.quartz_shovel": "Quartz Shovel",
+      "item.lukamod_v2.ruby_armor_armor_helmet": "RubyArmor Helmet",
+      "itemGroup.tabluka_modv_2": "Luka Mod v2",
+      "item.lukamod_v2.aluminium_ingot": "Aluminium",
+      "item.lukamod_v2.brass_armor_boots": "Brass Boots",
+      "item.lukamod_v2.ruby_axe": "Ruby Axe",
+      "item.lukamod_v2.tough_pickaxe": "Tough Pickaxe",
+      "biome.lukamod_v2.ash_biome": "Ash Biome",
+      "item.lukamod_v2.emerald_armor_armor_helmet": "Emerald Helmet",
+      "item.lukamod_v2.emerald_armor_armor_boots": "Emerald Boots",
+      "block.lukamod_v2.table": "Table",
+      "block.lukamod_v2.battery": "Battery",
+      "item.lukamod_v2.brass_armor_leggings": "Brass Leggings",
+      "block.lukamod_v2.aluminum_block": "Block of Aluminum"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Ruby",
+        "children": [
+          {
+            "name": "Recipe",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Tools",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Armor",
+            "children": []
+          },
+          {
+            "name": "Wood",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Emerald",
+        "children": [
+          {
+            "name": "Armor",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Recipe",
+            "children": []
+          },
+          {
+            "name": "Tools",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Quartz",
+        "children": [
+          {
+            "name": "Armor",
+            "children": []
+          },
+          {
+            "name": "Tools",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Alcoline",
+        "children": []
+      },
+      {
+        "name": "Mobs",
+        "children": []
+      },
+      {
+        "name": "GeneralBlocks",
+        "children": []
+      },
+      {
+        "name": "Tough",
+        "children": [
+          {
+            "name": "Iron",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "LightItems",
+        "children": []
+      },
+      {
+        "name": "GeneralGear",
+        "children": []
+      },
+      {
+        "name": "Steel",
+        "children": []
+      },
+      {
+        "name": "GeneralBiomes",
+        "children": [
+          {
+            "name": "Ash",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "tin",
+        "children": []
+      },
+      {
+        "name": "Copper",
+        "children": []
+      },
+      {
+        "name": "aluminium",
+        "children": []
+      },
+      {
+        "name": "brass",
+        "children": []
+      },
+      {
+        "name": "aluminum",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "lukamod_v2",
+    "modName": "LukaMod v2",
+    "version": "1.0.0",
+    "author": "kolth, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.lukamodv",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

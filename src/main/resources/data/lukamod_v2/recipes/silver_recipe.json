@@ -1,0 +1,12 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:blasting",
+  "experience": 9,
+  "cookingtime": 1000,
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "item": "lukamod_v2:silver"
+  }
+}

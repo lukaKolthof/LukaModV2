@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lukamod_v2:blocks/ruby_ore",
+    "up": "lukamod_v2:blocks/ruby_ore",
+    "north": "lukamod_v2:blocks/ruby_ore",
+    "east": "lukamod_v2:blocks/ruby_ore",
+    "south": "lukamod_v2:blocks/ruby_ore",
+    "west": "lukamod_v2:blocks/ruby_ore",
+    "particle": "lukamod_v2:blocks/ruby_ore"
+  }
+}

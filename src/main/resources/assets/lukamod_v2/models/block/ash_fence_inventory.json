@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "lukamod_v2:blocks/ash_planks",
+    "particle": "lukamod_v2:blocks/ash_planks"
+  }
+}

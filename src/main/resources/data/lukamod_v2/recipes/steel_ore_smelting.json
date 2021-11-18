@@ -1,0 +1,12 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:smelting",
+  "experience": 3.7,
+  "cookingtime": 500,
+  "ingredient": {
+    "item": "lukamod_v2:steel_ore"
+  },
+  "result": {
+    "item": "lukamod_v2:steel_ingot"
+  }
+}

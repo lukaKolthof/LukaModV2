@@ -1,0 +1,16 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "lukamod_v2:ruby"
+    }
+  ],
+  "result": {
+    "item": "lukamod_v2:ruby_appel",
+    "count": 1
+  }
+}

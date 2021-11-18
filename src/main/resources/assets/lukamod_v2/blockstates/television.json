@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lukamod_v2:block/television"
+    },
+    "facing=east": {
+      "model": "lukamod_v2:block/television",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lukamod_v2:block/television",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lukamod_v2:block/television",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "lukamod_v2:block/television",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "lukamod_v2:block/television",
+      "x": 90
+    }
+  }
+}

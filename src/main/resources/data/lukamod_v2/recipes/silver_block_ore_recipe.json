@@ -1,0 +1,13 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lukamod_v2:silver_block"
+    }
+  ],
+  "result": {
+    "item": "lukamod_v2:silver",
+    "count": 9
+  }
+}

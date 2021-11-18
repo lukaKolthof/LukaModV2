@@ -1,0 +1,32 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "lukamod_v2:ash_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "lukamod_v2:ash_planks"
+    },
+    "3": {
+      "item": "lukamod_v2:ash_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "lukamod_v2:ash_planks"
+    }
+  },
+  "result": {
+    "item": "lukamod_v2:ash_fence",
+    "count": 3
+  }
+}

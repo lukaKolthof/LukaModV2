@@ -1,0 +1,16 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lukamod_v2:ruby_shard"
+    },
+    {
+      "item": "lukamod_v2:ruby_shard"
+    }
+  ],
+  "result": {
+    "item": "lukamod_v2:ruby",
+    "count": 1
+  }
+}

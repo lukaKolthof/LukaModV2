@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "rubyarmor_head",
+    "enableBody": true,
+    "textureBody": "rubyarmor_body",
+    "enableLeggings": true,
+    "textureLeggings": "rubyarmor_leggings",
+    "enableBoots": true,
+    "textureBoots": "rubyarmor_boots",
+    "creativeTab": {
+      "value": "CUSTOM:LukaModv2"
+    },
+    "armorTextureFile": "rubyarmor",
+    "helmetName": "RubyArmor Helmet",
+    "bodyName": "RubyArmor Chestplate",
+    "leggingsName": "RubyArmor Leggings",
+    "bootsName": "RubyArmor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 43,
+    "damageValueHelmet": 100,
+    "damageValueBody": 130,
+    "damageValueLeggings": 130,
+    "damageValueBoots": 110,
+    "enchantability": 20,
+    "toughness": 4.0,
+    "knockbackResistance": 1.0,
+    "equipSound": {
+      "value": "block.anvil.fall"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ]
+  }
+}

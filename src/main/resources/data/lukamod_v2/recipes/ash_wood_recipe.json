@@ -1,0 +1,26 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "lukamod_v2:ash_log"
+    },
+    "1": {
+      "item": "lukamod_v2:ash_log"
+    },
+    "2": {
+      "item": "lukamod_v2:ash_log"
+    },
+    "3": {
+      "item": "lukamod_v2:ash_log"
+    }
+  },
+  "result": {
+    "item": "lukamod_v2:ash_wood",
+    "count": 3
+  }
+}

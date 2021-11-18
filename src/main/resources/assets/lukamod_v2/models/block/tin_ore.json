@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lukamod_v2:blocks/tin_ore",
+    "particle": "lukamod_v2:blocks/tin_ore"
+  }
+}

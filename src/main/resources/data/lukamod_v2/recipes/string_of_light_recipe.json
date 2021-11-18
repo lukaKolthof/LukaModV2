@@ -1,0 +1,42 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lukamod_v2:light"
+    },
+    "1": {
+      "item": "lukamod_v2:light"
+    },
+    "2": {
+      "item": "lukamod_v2:light"
+    },
+    "3": {
+      "item": "lukamod_v2:light"
+    },
+    "4": {
+      "item": "minecraft:string"
+    },
+    "5": {
+      "item": "lukamod_v2:light"
+    },
+    "6": {
+      "item": "lukamod_v2:light"
+    },
+    "7": {
+      "item": "lukamod_v2:light"
+    },
+    "8": {
+      "item": "lukamod_v2:light"
+    }
+  },
+  "result": {
+    "item": "lukamod_v2:string_of_light",
+    "count": 1
+  }
+}

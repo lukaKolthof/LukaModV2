@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "lukamod_v2:blocks/ash_planks",
+    "top": "lukamod_v2:blocks/ash_planks",
+    "side": "lukamod_v2:blocks/ash_planks"
+  }
+}

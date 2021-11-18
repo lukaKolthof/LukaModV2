@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "lukamod_v2:block/ruby_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "lukamod_v2:block/ruby_dimension_portal_ns"
+    }
+  }
+}

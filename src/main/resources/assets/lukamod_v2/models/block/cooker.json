@@ -1,0 +1,9 @@
+{
+  "parent": "lukamod_v2:custom/cooker",
+  "textures": {
+    "all": "lukamod_v2:blocks/iron_block",
+    "particle": "lukamod_v2:blocks/iron_block",
+    "0": "lukamod_v2:blocks/iron_block",
+    "1": "lukamod_v2:blocks/black"
+  }
+}

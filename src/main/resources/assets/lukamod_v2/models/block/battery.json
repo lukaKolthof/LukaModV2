@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lukamod_v2:blocks/tex2",
+    "up": "lukamod_v2:blocks/tex",
+    "north": "lukamod_v2:blocks/oventop",
+    "east": "lukamod_v2:blocks/oventop",
+    "south": "lukamod_v2:blocks/oventop",
+    "west": "lukamod_v2:blocks/oventop",
+    "particle": "lukamod_v2:blocks/tex2"
+  }
+}

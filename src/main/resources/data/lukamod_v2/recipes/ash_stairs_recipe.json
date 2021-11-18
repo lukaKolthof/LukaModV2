@@ -1,0 +1,33 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lukamod_v2:ash_planks"
+    },
+    "3": {
+      "item": "lukamod_v2:ash_planks"
+    },
+    "4": {
+      "item": "lukamod_v2:ash_planks"
+    },
+    "6": {
+      "item": "lukamod_v2:ash_planks"
+    },
+    "7": {
+      "item": "lukamod_v2:ash_planks"
+    },
+    "8": {
+      "item": "lukamod_v2:ash_planks"
+    }
+  },
+  "result": {
+    "item": "lukamod_v2:ash_stairs",
+    "count": 4
+  }
+}

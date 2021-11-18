@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AshPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AshPlanks"
+      },
+      {
+        "value": "CUSTOM:AshPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AshPlanks"
+      },
+      {
+        "value": "CUSTOM:AshPlanks"
+      },
+      {
+        "value": "CUSTOM:AshPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AshStairs"
+    },
+    "name": "ash_stairs_recipe",
+    "namespace": "mod"
+  }
+}

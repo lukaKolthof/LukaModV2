@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_apple",
+    "customModelName": "Normal",
+    "name": "Ruby Appel",
+    "rarity": "RARE",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:LukaModv2"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 50,
+    "saturation": 20.0,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "RubyAppelFoodEaten"
+    }
+  }
+}

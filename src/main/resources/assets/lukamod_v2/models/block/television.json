@@ -1,0 +1,10 @@
+{
+  "parent": "lukamod_v2:custom/television",
+  "textures": {
+    "all": "lukamod_v2:blocks/black",
+    "particle": "lukamod_v2:blocks/black",
+    "0": "lukamod_v2:blocks/black",
+    "1": "lukamod_v2:blocks/s261-dark-gray-swatch",
+    "missing": "lukamod_v2:blocks/"
+  }
+}

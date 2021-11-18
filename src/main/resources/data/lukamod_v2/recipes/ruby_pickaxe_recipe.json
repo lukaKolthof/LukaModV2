@@ -1,0 +1,30 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "lukamod_v2:ruby"
+    },
+    "1": {
+      "item": "lukamod_v2:ruby"
+    },
+    "2": {
+      "item": "lukamod_v2:ruby"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "lukamod_v2:ruby_pickaxe",
+    "count": 1
+  }
+}

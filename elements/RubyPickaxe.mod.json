@@ -1,0 +1,33 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_pickaxe",
+    "customModelName": "Normal",
+    "name": "Ruby Pickaxe",
+    "specialInfo": [
+      "A godly like pickaxe"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:LukaModv2"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 150.0,
+    "attackSpeed": 1.0,
+    "enchantability": 6,
+    "damageVsEntity": 1.0,
+    "usageCount": 4350,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

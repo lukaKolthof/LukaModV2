@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "item-removebg-preview",
+    "customModelName": "Normal",
+    "name": "Bow Of Light",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:LukaModv2"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Light"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": true,
+    "damageVsEntity": 10.0,
+    "bulletPower": 100.0,
+    "bulletDamage": 10000.0,
+    "bulletKnockback": 500,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Light"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "BowOfLightBulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "BowOfLightBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "BowOfLightBulletHitsBlock"
+    }
+  }
+}

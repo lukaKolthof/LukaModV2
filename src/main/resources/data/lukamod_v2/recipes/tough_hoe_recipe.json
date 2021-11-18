@@ -1,0 +1,27 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "lukamod_v2:iron_stick"
+    },
+    "5": {
+      "item": "lukamod_v2:iron_stick"
+    }
+  },
+  "result": {
+    "item": "lukamod_v2:tough_hoe",
+    "count": 1
+  }
+}

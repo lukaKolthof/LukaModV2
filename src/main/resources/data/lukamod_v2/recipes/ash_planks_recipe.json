@@ -1,0 +1,13 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ash_log"
+    }
+  ],
+  "result": {
+    "item": "lukamod_v2:ash_planks",
+    "count": 4
+  }
+}

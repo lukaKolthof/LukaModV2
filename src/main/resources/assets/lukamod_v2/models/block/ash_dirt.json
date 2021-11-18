@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lukamod_v2:blocks/ashdirttop",
+    "up": "lukamod_v2:blocks/ashdirttop",
+    "north": "lukamod_v2:blocks/ashdirtside",
+    "east": "lukamod_v2:blocks/ashdirtside",
+    "south": "lukamod_v2:blocks/ashdirtside",
+    "west": "lukamod_v2:blocks/ashdirtside",
+    "particle": "lukamod_v2:blocks/ashdirttop"
+  }
+}

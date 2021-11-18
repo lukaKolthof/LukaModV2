@@ -1,0 +1,39 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lukamod_v2:ash"
+    },
+    "2": {
+      "item": "lukamod_v2:ash"
+    },
+    "3": {
+      "item": "lukamod_v2:ash"
+    },
+    "4": {
+      "item": "lukamod_v2:ash"
+    },
+    "5": {
+      "item": "lukamod_v2:ash"
+    },
+    "6": {
+      "item": "lukamod_v2:ash"
+    },
+    "7": {
+      "item": "lukamod_v2:ash"
+    },
+    "8": {
+      "item": "lukamod_v2:ash"
+    }
+  },
+  "result": {
+    "item": "lukamod_v2:q_ash_armor_chestplate",
+    "count": 1
+  }
+}

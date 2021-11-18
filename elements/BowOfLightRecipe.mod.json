@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Light"
+      },
+      {
+        "value": "CUSTOM:StringOfLight"
+      },
+      {
+        "value": "CUSTOM:Light"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StringOfLight"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Light"
+      },
+      {
+        "value": "CUSTOM:StringOfLight"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BowOfLight"
+    },
+    "name": "bow_of_light_recipe",
+    "namespace": "mod"
+  }
+}

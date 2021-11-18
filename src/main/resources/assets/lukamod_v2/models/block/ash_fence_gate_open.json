@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate_open",
+  "textures": {
+    "texture": "lukamod_v2:blocks/ash_planks"
+  }
+}

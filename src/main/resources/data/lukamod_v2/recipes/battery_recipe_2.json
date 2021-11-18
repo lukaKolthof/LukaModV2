@@ -1,0 +1,16 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "lukamod_v2:machine_chassis"
+    }
+  ],
+  "result": {
+    "item": "lukamod_v2:battery",
+    "count": 1
+  }
+}

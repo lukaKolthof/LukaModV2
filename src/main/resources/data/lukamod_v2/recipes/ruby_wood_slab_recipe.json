@@ -1,0 +1,22 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "lukamod_v2:ruby_wood_planks"
+    },
+    "1": {
+      "item": "lukamod_v2:ruby_wood_planks"
+    },
+    "2": {
+      "item": "lukamod_v2:ruby_wood_planks"
+    }
+  },
+  "result": {
+    "item": "lukamod_v2:ruby_wood_slab",
+    "count": 6
+  }
+}

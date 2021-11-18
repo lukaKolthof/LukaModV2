@@ -1,0 +1,43 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "point-light-png-3",
+    "customModelName": "Normal",
+    "name": "Light",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "CUSTOM:LukaModv2"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": true,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "A dot of light but where did it come from?",
+      "It can destroy every block"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onCrafted": {
+      "name": "LightItemIsCraftedsmelted"
+    },
+    "onDroppedByPlayer": {
+      "name": "LightItemIsCraftedsmelted"
+    },
+    "hasDispenseBehavior": false
+  }
+}

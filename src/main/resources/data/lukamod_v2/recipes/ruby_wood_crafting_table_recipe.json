@@ -1,0 +1,22 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lukamod_v2:ruby_wood_planks"
+    },
+    {
+      "item": "lukamod_v2:ruby_wood_planks"
+    },
+    {
+      "item": "lukamod_v2:ruby_wood_planks"
+    },
+    {
+      "item": "lukamod_v2:ruby_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "minecraft:crafting_table",
+    "count": 1
+  }
+}

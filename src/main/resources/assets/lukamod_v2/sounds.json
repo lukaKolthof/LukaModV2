@@ -1,0 +1,38 @@
+{
+  "idl1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "lukamod_v2:src_main_resources_assets_goblintraders_sounds_entity_goblin_trader_idle_grunt1",
+        "stream": false
+      }
+    ]
+  },
+  "idle2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "lukamod_v2:src_main_resources_assets_goblintraders_sounds_entity_goblin_trader_idle_grunt2",
+        "stream": false
+      }
+    ]
+  },
+  "idle3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "lukamod_v2:src_main_resources_assets_goblintraders_sounds_entity_goblin_trader_idle_grunt3",
+        "stream": false
+      }
+    ]
+  },
+  "annoyed": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "lukamod_v2:src_main_resources_assets_goblintraders_sounds_entity_goblin_trader_annoyed_grunt2",
+        "stream": false
+      }
+    ]
+  }
+}

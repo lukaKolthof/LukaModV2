@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "lukamod_v2:block/ash_slab"
+    },
+    "type=top": {
+      "model": "lukamod_v2:block/ash_slab_top"
+    },
+    "type=double": {
+      "model": "lukamod_v2:block/ash_slab_full"
+    }
+  }
+}

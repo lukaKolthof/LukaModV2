@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "black",
+        "1": "s261-dark-gray-swatch",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

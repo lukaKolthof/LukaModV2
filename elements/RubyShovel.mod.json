@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_shovel",
+    "customModelName": "Normal",
+    "name": "Ruby Shovel",
+    "specialInfo": [
+      "A godly like shovel"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:LukaModv2"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 5,
+    "efficiency": 40.0,
+    "attackSpeed": 1.0,
+    "enchantability": 5,
+    "damageVsEntity": 4.0,
+    "usageCount": 4250,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

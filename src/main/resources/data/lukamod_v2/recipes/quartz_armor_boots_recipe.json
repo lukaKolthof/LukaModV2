@@ -1,0 +1,26 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:quartz"
+    },
+    "2": {
+      "item": "minecraft:quartz"
+    },
+    "3": {
+      "item": "minecraft:quartz"
+    },
+    "5": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "lukamod_v2:quartz_armor_boots",
+    "count": 1
+  }
+}

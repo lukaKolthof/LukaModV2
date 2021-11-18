@@ -1,0 +1,12 @@
+{
+  "group": "lukamod_v2",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "lukamod_v2:aluminum_ore"
+  },
+  "result": {
+    "item": "lukamod_v2:aluminum_ingot"
+  }
+}

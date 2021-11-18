@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "quartz_pillar",
+        "1": "oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

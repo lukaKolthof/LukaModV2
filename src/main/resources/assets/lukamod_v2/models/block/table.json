@@ -1,0 +1,9 @@
+{
+  "parent": "lukamod_v2:custom/table",
+  "textures": {
+    "all": "lukamod_v2:blocks/oak_log",
+    "particle": "lukamod_v2:blocks/oak_log",
+    "0": "lukamod_v2:blocks/quartz_pillar",
+    "1": "lukamod_v2:blocks/oak_log"
+  }
+}

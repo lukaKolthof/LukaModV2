@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "lukamod_v2:blocks/rubywood_planks",
+    "particle": "lukamod_v2:blocks/rubywood_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "lukamod_v2:blocks/rubyplant",
+    "particle": "lukamod_v2:blocks/rubyplant"
+  }
+}

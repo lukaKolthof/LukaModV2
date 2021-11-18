@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_sword",
+    "customModelName": "Normal",
+    "name": "Ruby Sword",
+    "specialInfo": [
+      "A godly like sword"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:LukaModv2"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 20.0,
+    "enchantability": 5,
+    "damageVsEntity": 42.0,
+    "usageCount": 4250,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
