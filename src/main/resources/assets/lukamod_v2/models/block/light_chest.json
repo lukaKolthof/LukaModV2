@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lukamod_v2:blocks/obsidianchest",
+    "up": "lukamod_v2:blocks/obsidianchest",
+    "north": "lukamod_v2:blocks/obsidianchest",
+    "east": "lukamod_v2:blocks/obsidianchest",
+    "south": "lukamod_v2:blocks/obsidianchest",
+    "west": "lukamod_v2:blocks/obsidianchest",
+    "particle": "lukamod_v2:blocks/obsidianchest"
+  }
+}
