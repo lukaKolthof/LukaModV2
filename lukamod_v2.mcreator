@@ -3674,6 +3674,123 @@
         ]
       },
       "path": "~/GeneralBlocks"
+    },
+    {
+      "name": "Obsidianoblitiratoron",
+      "type": "block",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidianoblitiratoron",
+      "path": "~/Mobs"
+    },
+    {
+      "name": "ObsidianoblitiratorRedstoneOn",
+      "type": "procedure",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidianoblitirator_redstone_on",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Obsidianoblitirator",
+      "type": "block",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidianoblitirator",
+      "path": "~/Mobs"
+    },
+    {
+      "name": "ObsidianoblitiratoronRedstoneOff",
+      "type": "procedure",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidianoblitiratoron_redstone_off",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ObsidianoblitiratoronUpdateTick",
+      "type": "procedure",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidianoblitiratoron_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ObsidianOblitiratorRecipe",
+      "type": "recipe",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_oblitirator_recipe",
+      "path": "~/Mobs"
     }
   ],
   "variable_elements": [],
@@ -3724,8 +3841,8 @@
       "item.lukamod_v2.aluminium_sword": "Aluminium Sword",
       "block.lukamod_v2.ash_fence_gate": "Ash Fence Gate",
       "fluid.ruby_water": "RubyWater",
-      "item.lukamod_v2.quartz_armor_chestplate": "Quartz Chestplate",
       "item.lukamod_v2.energy_meter": "Energy Meter",
+      "item.lukamod_v2.quartz_armor_chestplate": "Quartz Chestplate",
       "item.lukamod_v2.steel_axe": "Steel Axe",
       "item.lukamod_v2.q_ash_pickaxe": "Ash Pickaxe",
       "item.lukamod_v2.steel_shovel": "Steel Shovel",
@@ -3741,6 +3858,7 @@
       "item.lukamod_v2.tin_pickaxe": "Tin Pickaxe",
       "item.lukamod_v2.emerald_tools_sword": "Emerald Sword",
       "block.lukamod_v2.aluminum_ore": "Aluminum Ore",
+      "block.lukamod_v2.obsidianoblitirator": "Obsidian oblitirator",
       "item.lukamod_v2.copper_armor_leggings": "Copper Leggings",
       "item.lukamod_v2.copper_pickaxe": "Copper Pickaxe",
       "item.lukamod_v2.tin_armor_helmet": "Tin Helmet",
@@ -3785,6 +3903,7 @@
       "entity.lukamod_v2.obsidian_boss": "Obsidian Boss",
       "item.lukamod_v2.copper_axe": "Copper Axe",
       "block.lukamod_v2.steel_ore": "Steel Ore",
+      "block.lukamod_v2.obsidianoblitiratoron": "Obsidianoblitiratoron",
       "item.lukamod_v2.tin_axe": "Tin Axe",
       "item.lukamod_v2.bow_of_light": "Bow Of Light",
       "item.lukamod_v2.iron_stick": "Iron Stick",

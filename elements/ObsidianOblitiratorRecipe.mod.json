@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Light"
+      },
+      {
+        "value": "Blocks.REDSTONE_LAMP"
+      },
+      {
+        "value": "CUSTOM:Light"
+      },
+      {
+        "value": "CUSTOM:StringOfLight"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:StringOfLight"
+      },
+      {
+        "value": "CUSTOM:Light"
+      },
+      {
+        "value": "Blocks.REDSTONE_LAMP"
+      },
+      {
+        "value": "CUSTOM:Light"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Obsidianoblitirator"
+    },
+    "name": "obsidian_oblitirator_recipe",
+    "namespace": "mod"
+  }
+}
